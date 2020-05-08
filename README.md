@@ -7,3 +7,6 @@
 5. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 6. [Majority Element](https://leetcode.com/problems/majority-element/)
 7. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+
+## B. Week 2
+1. [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
