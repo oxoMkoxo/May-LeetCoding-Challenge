@@ -13,3 +13,4 @@
 2. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 3. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 4. [Flood Fill](https://leetcode.com/problems/flood-fill/)
+5. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
