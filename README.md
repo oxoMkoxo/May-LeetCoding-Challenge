@@ -15,3 +15,4 @@
 4. [Flood Fill](https://leetcode.com/problems/flood-fill/)
 5. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 6. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+7. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
