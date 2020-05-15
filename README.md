@@ -16,3 +16,6 @@
 5. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 6. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 7. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+## C. Week 3
+1. [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
