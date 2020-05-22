@@ -25,3 +25,6 @@
 5. [Online Stock Span](https://leetcode.com/problems/online-stock-span/)
 6. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 7. [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
+
+## D. Week 4
+1. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
