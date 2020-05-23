@@ -28,3 +28,4 @@
 
 ## D. Week 4
 1. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+2. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
