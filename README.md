@@ -33,3 +33,4 @@
 4. [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
 5. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 6. [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+7. [Counting bits](https://leetcode.com/problems/counting-bits/)
