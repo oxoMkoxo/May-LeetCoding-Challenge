@@ -34,3 +34,6 @@
 5. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 6. [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
 7. [Counting bits](https://leetcode.com/problems/counting-bits/)
+
+## E. Week 5
+1. [Course Schedule](https://leetcode.com/problems/course-schedule/)
