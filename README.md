@@ -37,3 +37,4 @@
 
 ## E. Week 5
 1. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+2. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
